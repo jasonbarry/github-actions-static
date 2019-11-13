@@ -1,9 +1,5 @@
 version: 2
 
-docker-app: 
-  type: docker
-  port: 80
-
-static-app:
+actions-workflow:
   type: static
   path: /public
