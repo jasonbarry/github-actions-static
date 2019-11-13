@@ -1,0 +1,21 @@
+body {
+  font-family: Comic Sans MS, Helvetica, Arial, sans-serif;
+  font-size: 200%;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+h2, h3 {
+  font-size: 150%;
+}
+
+a {
+  text-decoration: none;
+}

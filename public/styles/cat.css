@@ -1,0 +1,12 @@
+body {
+  font-family: Comic Sans MS, Helvetica, Arial, sans-serif;
+  font-size: 200%;
+}
+
+section {
+  display: flex;
+}
+
+.odd {
+  flex-direction: row-reverse;
+}
